@@ -543,7 +543,7 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 722,
+        "changeIdentifier": 736,
         "clippingMaskMode": 0,
         "do_objectID": "B32359F9-1CF8-462A-B6DC-31AA3B7E56E8",
         "exportOptions": {
@@ -602,7 +602,7 @@
               "constrainProportions": false,
               "height": 46,
               "width": 90,
-              "x": -3.410605131648482e-12,
+              "x": -3.410605131648481e-12,
               "y": 0
             },
             "hasClickThrough": false,
@@ -931,7 +931,7 @@
                   "constrainProportions": false,
                   "height": 16,
                   "width": 50,
-                  "x": 20.00000000000341,
+                  "x": 20.00000000000364,
                   "y": 15
                 },
                 "glyphBounds": "{{1, 1}, {48, 13}}",

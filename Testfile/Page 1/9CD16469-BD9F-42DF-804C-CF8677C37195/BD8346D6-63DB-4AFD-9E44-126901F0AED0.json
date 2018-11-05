@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 46,
-    "width": 90,
+    "width": 186,
     "x": 167,
     "y": 228
   },
@@ -31,6 +31,11 @@
   "name": "Button/Large/Fit/Primary/Static",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0656E09E-EEEA-4F3E-92CA-5CD0C53F9D6E_stringValue",
+      "value": "This is a new button"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
